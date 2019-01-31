@@ -1,0 +1,17 @@
+{
+  "name": "smBut",
+  "keywords": "button, work class, oop",
+  "description": "The SmartButton abstract class for using custom buttons in Arduino sketches.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kulverstukas/smBut"
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "Andrikll aka Kulverstukas",
+    "url": "https://github.com/kulverstukas"
+	"maintainer": true
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
