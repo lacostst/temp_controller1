@@ -11,7 +11,7 @@
 #include "../../../../../Program Files (x86)/Arduino/libraries/Ethernet/src/Ethernet.h"
 
 
-#define DEBUG 1
+#define DEBUG 0
 #define EMULATE 0
 #define ETHERNET 1
 
